@@ -5,6 +5,7 @@ This repository contains the solution for the Dynamic Treasure Scheduler problem
 - [State of the System](#state-of-the-system)
 - [Scheduling Policy](#scheduling-policy)
 - [Code](#code)
+- [Time Complexity Analysis](#time-complexity-analysis)
 ## Background
 In large-scale systems, task scheduling and resource allocation are critical problems, and this project simulates a similar challenge faced by a team of pirates—specifically the Straw Hat crew from the popular series One Piece.
 
